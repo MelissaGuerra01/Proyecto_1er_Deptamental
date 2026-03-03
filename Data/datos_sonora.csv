@@ -1,0 +1,311 @@
+Entidad_federativa,Municipio,Tipo_de_Fuente,SO_2,CO,NOx,COV,PM_010,PM_2_5,NH_3
+Sonora,Aconchi,Fuentes de área,0.221,61.227,2.957,42.137,14.366,9.248,38.464
+Sonora,Aconchi,Fuentes móviles carreteros,0.571,81.655,20.488,7.12,1.883,1.728,0.109
+Sonora,Aconchi,Fuentes móviles que no circulan por carretera,1.028,14.192,29.287,2.923,2.423,2.35,0.009
+Sonora,Aconchi,Fuentes naturales,,,102.143,648.11,,,
+Sonora,Agua Prieta,Fuentes fijas,11.84,1535.919,2703.36,98.087,867.424,843.006,1.411
+Sonora,Agua Prieta,Fuentes de área,211.664,23294.156,706.089,3040.759,2438.563,2063.175,371.95
+Sonora,Agua Prieta,Fuentes móviles carreteros,30.283,3875.521,1084.206,349.839,108.47,99.591,5.526
+Sonora,Agua Prieta,Fuentes móviles que no circulan por carretera,1.725,21.814,105.421,5.762,4.331,4.067,0.009
+Sonora,Agua Prieta,Fuentes naturales,,,60.967,419.25,,,
+Sonora,Álamos,Fuentes fijas,0,0.402,0.706,0,0.079,0.054,0
+Sonora,Álamos,Fuentes de área,11.163,1796.998,57.69,444.997,315.221,193.267,301.631
+Sonora,Álamos,Fuentes móviles carreteros,4.141,424.602,146.079,37.386,17.777,16.333,0.628
+Sonora,Álamos,Fuentes móviles que no circulan por carretera,1.259,16.319,35.895,3.432,2.826,2.742,0.011
+Sonora,Álamos,Fuentes naturales,,,158.832,2391.542,,,
+Sonora,Altar,Fuentes fijas,0,1.08,1.896,0,0.808,0.631,0
+Sonora,Altar,Fuentes de área,0.199,41.202,2.905,120.325,138.703,33.521,109.757
+Sonora,Altar,Fuentes móviles carreteros,2.242,245.804,77.614,21.874,9.531,8.756,0.362
+Sonora,Altar,Fuentes móviles que no circulan por carretera,1.285,16.556,36.631,3.488,2.871,2.785,0.011
+Sonora,Altar,Fuentes naturales,,,76.736,273.989,,,
+Sonora,Arivechi,Fuentes de área,0.219,45.068,2.102,16.77,9.933,7.062,18.501
+Sonora,Arivechi,Fuentes móviles carreteros,0.135,28.66,4.922,2.336,0.153,0.139,0.034
+Sonora,Arivechi,Fuentes móviles que no circulan por carretera,1.008,14.012,28.728,2.88,2.388,2.317,0.009
+Sonora,Arivechi,Fuentes naturales,,,53.603,2654.733,,,
+Sonora,Arizpe,Fuentes de área,47.35,5180.666,154.915,398.635,565.649,454.279,159.181
+Sonora,Arizpe,Fuentes móviles carreteros,0.612,80.73,21.707,6.765,2.224,2.042,0.108
+Sonora,Arizpe,Fuentes móviles que no circulan por carretera,1.06,14.49,30.212,2.994,2.479,2.405,0.009
+Sonora,Arizpe,Fuentes naturales,,,30.861,131.639,,,
+Sonora,Atil,Fuentes de área,0.056,9.23,0.479,8.456,6.548,2.373,7.686
+Sonora,Atil,Fuentes móviles carreteros,0.13,24.582,4.72,1.939,0.256,0.234,0.029
+Sonora,Atil,Fuentes móviles que no circulan por carretera,0.998,13.919,28.438,2.857,2.371,2.3,0.009
+Sonora,Atil,Fuentes naturales,,,56.434,172.768,,,
+Sonora,Bacadéhuachi,Fuentes de área,0.075,28.883,1.145,20.876,8.717,3.826,22.367
+Sonora,Bacadéhuachi,Fuentes móviles carreteros,0.037,8.139,1.299,0.696,0.011,0.01,0.01
+Sonora,Bacadéhuachi,Fuentes móviles que no circulan por carretera,0.993,13.868,28.282,2.845,2.361,2.29,0.009
+Sonora,Bacadéhuachi,Fuentes naturales,,,28.322,240.442,,,
+Sonora,Bacanora,Fuentes de área,0.119,23.711,1.173,14.432,8.398,4.277,13.522
+Sonora,Bacanora,Fuentes móviles carreteros,0.142,30.572,5.196,2.463,0.156,0.142,0.036
+Sonora,Bacanora,Fuentes móviles que no circulan por carretera,0.996,13.895,28.364,2.852,2.366,2.295,0.009
+Sonora,Bacanora,Fuentes naturales,,,51.259,3586.684,,,
+Sonora,Bacerac,Fuentes de área,0.142,53.597,1.866,24.803,13.81,6.525,26.986
+Sonora,Bacerac,Fuentes móviles carreteros,0.074,13.882,2.659,1.184,0.129,0.118,0.017
+Sonora,Bacerac,Fuentes móviles que no circulan por carretera,1,13.937,28.495,2.862,2.374,2.303,0.009
+Sonora,Bacerac,Fuentes naturales,,,28.557,338.062,,,
+Sonora,Bacoachi,Fuentes de área,0.726,111.041,3.816,30.89,20.334,12.354,24.772
+Sonora,Bacoachi,Fuentes móviles carreteros,0.225,40.389,8.179,3.364,0.498,0.456,0.05
+Sonora,Bacoachi,Fuentes móviles que no circulan por carretera,1.026,14.171,29.223,2.918,2.419,2.346,0.009
+Sonora,Bacoachi,Fuentes naturales,,,42.12,202.072,,,
+Sonora,Bácum,Fuentes de área,3.129,583.571,25.69,317.278,498.328,156.426,1294.3
+Sonora,Bácum,Fuentes móviles carreteros,4.702,496.549,169.361,44.427,19.304,17.734,0.728
+Sonora,Bácum,Fuentes móviles que no circulan por carretera,2.61,28.749,74.512,6.407,5.187,5.032,0.023
+Sonora,Bácum,Fuentes naturales,,,259.366,1305.744,,,
+Sonora,Banámichi,Fuentes de área,0.106,42.033,1.79,30.946,20.177,7.771,45.739
+Sonora,Banámichi,Fuentes móviles carreteros,0.378,50.058,13.461,4.292,1.384,1.271,0.068
+Sonora,Banámichi,Fuentes móviles que no circulan por carretera,1.012,14.044,28.827,2.887,2.394,2.323,0.009
+Sonora,Banámichi,Fuentes naturales,,,62.689,342.463,,,
+Sonora,Baviácora,Fuentes de área,0.184,59.498,2.684,40.749,17.279,8.765,58.081
+Sonora,Baviácora,Fuentes móviles carreteros,0.966,133.475,34.245,11.506,3.287,3.017,0.178
+Sonora,Baviácora,Fuentes móviles que no circulan por carretera,1.02,14.116,29.05,2.904,2.408,2.336,0.009
+Sonora,Baviácora,Fuentes naturales,,,57.147,275.352,,,
+Sonora,Bavispe,Fuentes de área,6.992,780.881,23.313,68.457,96.994,70.84,39.512
+Sonora,Bavispe,Fuentes móviles carreteros,0.064,11.571,2.293,0.968,0.126,0.115,0.014
+Sonora,Bavispe,Fuentes móviles que no circulan por carretera,1.016,14.086,28.957,2.897,2.402,2.33,0.009
+Sonora,Bavispe,Fuentes naturales,,,44.87,372.362,,,
+Sonora,Benjamín Hill,Fuentes de área,0.096,29.688,1.916,72.552,17.74,5.75,21.618
+Sonora,Benjamín Hill,Fuentes móviles carreteros,1.035,152.96,37.003,13.102,3.202,2.938,0.207
+Sonora,Benjamín Hill,Fuentes móviles que no circulan por carretera,8.599,97.422,875.949,34.22,23.397,21.187,0.009
+Sonora,Benjamín Hill,Fuentes naturales,,,38.721,116.317,,,
+Sonora,Caborca,Fuentes fijas,3.069,4.517,68.683,10.365,13.285,10.876,0
+Sonora,Caborca,Fuentes de área,0.639,168.623,21.346,935.817,241.891,68.7,539.429
+Sonora,Caborca,Fuentes móviles carreteros,41.748,5115.152,1497.75,458.558,154.721,142.08,7.362
+Sonora,Caborca,Fuentes móviles que no circulan por carretera,3.69,41.717,246.073,12.05,8.804,8.203,0.018
+Sonora,Caborca,Fuentes naturales,,,148.393,579.471,,,
+Sonora,Cajeme,Fuentes fijas,71.423,9.978,18.95,151.152,14.659,6.118,0.183
+Sonora,Cajeme,Fuentes de área,11.278,2189.327,167.332,6997.809,1647.761,548.062,4802.124
+Sonora,Cajeme,Fuentes móviles carreteros,209.57,23074.06,7802.691,2104.491,793.386,728.753,34.864
+Sonora,Cajeme,Fuentes móviles que no circulan por carretera,12.323,418.163,298.262,67.895,13.081,12.544,0.05
+Sonora,Cajeme,Fuentes naturales,,,315.184,3904.546,,,
+Sonora,Cananea,Fuentes fijas,4.615,5.1,17.479,19.596,19453.815,7304.993,0.688
+Sonora,Cananea,Fuentes de área,2.697,371.22,17.723,527.291,131.021,48.225,79.648
+Sonora,Cananea,Fuentes móviles carreteros,23.285,2903.021,848.79,264.793,83.067,76.272,4.17
+Sonora,Cananea,Fuentes móviles que no circulan por carretera,2.092,27.458,160.981,8.825,5.712,5.308,0.009
+Sonora,Cananea,Fuentes naturales,,,61.802,215.347,,,
+Sonora,Carbó,Fuentes de área,0.186,76.306,3.206,71.486,52.135,16.781,70.015
+Sonora,Carbó,Fuentes móviles carreteros,0.801,114.021,28.323,9.751,2.632,2.416,0.153
+Sonora,Carbó,Fuentes móviles que no circulan por carretera,1.964,24.248,123.124,6.541,4.882,4.575,0.01
+Sonora,Carbó,Fuentes naturales,,,70.086,270.249,,,
+Sonora,La Colorada,Fuentes fijas,366.083,5988.142,2221.151,6.261,35.466,21.988,0.072
+Sonora,La Colorada,Fuentes de área,0.216,46.976,2.296,28.105,17.533,7.945,47.6
+Sonora,La Colorada,Fuentes móviles carreteros,0.598,88.542,21.605,7.842,1.893,1.737,0.118
+Sonora,La Colorada,Fuentes móviles que no circulan por carretera,1.811,22.756,114.703,6.11,4.566,4.278,0.009
+Sonora,La Colorada,Fuentes naturales,,,68.857,666.703,,,
+Sonora,Cucurpe,Fuentes fijas,1.153,0.099,0.394,0.004,0.017,0.012,0.016
+Sonora,Cucurpe,Fuentes de área,0.092,31.978,1.185,18.95,10.512,4.311,29.599
+Sonora,Cucurpe,Fuentes móviles carreteros,0.125,26.355,4.613,2.262,0.149,0.135,0.032
+Sonora,Cucurpe,Fuentes móviles que no circulan por carretera,1.01,14.024,28.764,2.882,2.391,2.319,0.009
+Sonora,Cucurpe,Fuentes naturales,,,52.586,173.849,,,
+Sonora,Cumpas,Fuentes fijas,0,0,0,3.874,0,0,0
+Sonora,Cumpas,Fuentes de área,0.356,89.193,4.675,90.19,30.389,23.194,60.328
+Sonora,Cumpas,Fuentes móviles carreteros,1.441,183.813,50.805,16.193,5.382,4.942,0.254
+Sonora,Cumpas,Fuentes móviles que no circulan por carretera,1.031,14.22,29.374,2.929,2.428,2.355,0.009
+Sonora,Cumpas,Fuentes naturales,,,58.307,325.115,,,
+Sonora,Divisaderos,Fuentes de área,0.075,13.526,0.738,10.471,3.867,2.459,10.679
+Sonora,Divisaderos,Fuentes móviles carreteros,0.088,17.216,3.195,1.49,0.134,0.123,0.021
+Sonora,Divisaderos,Fuentes móviles que no circulan por carretera,1.001,13.943,28.513,2.863,2.375,2.304,0.009
+Sonora,Divisaderos,Fuentes naturales,,,50.132,216.631,,,
+Sonora,Empalme,Fuentes fijas,0,0,0,1.037,0,0,0
+Sonora,Empalme,Fuentes de área,0.63,191.949,20.629,887.343,87.026,44.487,151.217
+Sonora,Empalme,Fuentes móviles carreteros,20.927,2235.716,761.111,201.434,84.105,77.263,3.355
+Sonora,Empalme,Fuentes móviles que no circulan por carretera,2.347,29.723,164.233,9.293,6.109,5.703,0.012
+Sonora,Empalme,Fuentes naturales,,,509.326,2561.622,,,
+Sonora,Etchojoa,Fuentes de área,9.736,2101.982,78.744,785.86,1098.637,390.076,804.725
+Sonora,Etchojoa,Fuentes móviles carreteros,3.961,259.82,164.532,24.4,17.005,15.634,0.443
+Sonora,Etchojoa,Fuentes móviles que no circulan por carretera,3.763,39.366,107.493,8.947,7.203,6.987,0.034
+Sonora,Etchojoa,Fuentes naturales,,,1237.788,5792.704,,,
+Sonora,Fronteras,Fuentes de área,0.802,204.981,8.441,115.197,49.784,28.831,75.925
+Sonora,Fronteras,Fuentes móviles carreteros,2.991,324.563,103.096,28.749,12.806,11.764,0.474
+Sonora,Fronteras,Fuentes móviles que no circulan por carretera,2.649,33.326,211.253,10.849,7.108,6.58,0.01
+Sonora,Fronteras,Fuentes naturales,,,69.119,410.415,,,
+Sonora,Granados,Fuentes de área,0.022,4.958,0.388,23.554,26.599,4.681,14.247
+Sonora,Granados,Fuentes móviles carreteros,0.11,22.627,4.023,1.913,0.143,0.13,0.027
+Sonora,Granados,Fuentes móviles que no circulan por carretera,0.992,13.861,28.258,2.843,2.36,2.289,0.009
+Sonora,Granados,Fuentes naturales,,,40.701,167.023,,,
+Sonora,Guaymas,Fuentes fijas,16287.522,138.149,1209.891,239.638,755.603,544.302,21.891
+Sonora,Guaymas,Fuentes de área,3.871,1068.948,76.462,2401.84,371.11,159.893,973.468
+Sonora,Guaymas,Fuentes móviles carreteros,38.75,5584.611,1419.743,509.95,118.75,108.959,7.678
+Sonora,Guaymas,Fuentes móviles que no circulan por carretera,30.156,141.9,609.137,74.133,9.773,9.115,0.019
+Sonora,Guaymas,Fuentes naturales,,,140.642,672.394,,,
+Sonora,Hermosillo,Fuentes fijas,336.703,1561.46,3741.51,1242.511,7222.447,5458.683,0.886
+Sonora,Hermosillo,Fuentes de área,8.499,2380.002,314.035,13867.14,1565.627,649.232,9009.216
+Sonora,Hermosillo,Fuentes móviles carreteros,379.32,48079.736,13805.29,4340.456,1320.435,1212.342,70.466
+Sonora,Hermosillo,Fuentes móviles que no circulan por carretera,29.129,674.034,457.406,69.039,16.079,15.515,0.052
+Sonora,Hermosillo,Fuentes naturales,,,52.288,252.83,,,
+Sonora,Huachinera,Fuentes de área,4.819,557.627,16.944,108.958,540.084,124.414,26.786
+Sonora,Huachinera,Fuentes móviles carreteros,0.083,16.17,3.025,1.395,0.133,0.121,0.02
+Sonora,Huachinera,Fuentes móviles que no circulan por carretera,1.549,22.582,110.617,7.627,4.46,4.183,0.009
+Sonora,Huachinera,Fuentes naturales,,,20.428,255.737,,,
+Sonora,Huásabas,Fuentes de área,25.206,2824.851,82.008,211.951,286.403,240.62,43.879
+Sonora,Huásabas,Fuentes móviles carreteros,0.3,44.491,10.757,3.803,0.94,0.862,0.058
+Sonora,Huásabas,Fuentes móviles que no circulan por carretera,0.99,13.842,28.2,2.839,2.356,2.285,0.009
+Sonora,Huásabas,Fuentes naturales,,,23.788,175.299,,,
+Sonora,Huatabampo,Fuentes fijas,107.511,1.141,10.975,0.113,6.046,3.901,0.148
+Sonora,Huatabampo,Fuentes de área,6.074,1443.079,58.986,912.957,745.012,261.624,619.072
+Sonora,Huatabampo,Fuentes móviles carreteros,20.867,2197.724,760.626,199.683,84.446,77.579,3.31
+Sonora,Huatabampo,Fuentes móviles que no circulan por carretera,3.891,42.242,190.245,11.064,8.398,7.957,0.026
+Sonora,Huatabampo,Fuentes naturales,,,258.261,1167.134,,,
+Sonora,Huépac,Fuentes de área,0.156,37.176,1.708,26.025,35.334,10.734,27.023
+Sonora,Huépac,Fuentes móviles carreteros,0.394,53.966,14.148,4.683,1.39,1.276,0.072
+Sonora,Huépac,Fuentes móviles que no circulan por carretera,1.022,14.141,29.128,2.91,2.413,2.34,0.009
+Sonora,Huépac,Fuentes naturales,,,47.14,312.087,,,
+Sonora,Imuris,Fuentes de área,46.508,5173.493,154.921,477.082,528.038,443.549,97.807
+Sonora,Imuris,Fuentes móviles carreteros,3.802,425.48,131.748,37.75,15.843,14.553,0.611
+Sonora,Imuris,Fuentes móviles que no circulan por carretera,1.647,20.954,96.53,5.436,4.113,3.871,0.009
+Sonora,Imuris,Fuentes naturales,,,40.843,218.675,,,
+Sonora,Magdalena,Fuentes fijas,0.097,2.251,3.075,7.71,1.829,1.077,0.003
+Sonora,Magdalena,Fuentes de área,0.292,95.14,9.772,486.307,32.572,14.286,69.673
+Sonora,Magdalena,Fuentes móviles carreteros,16.633,1947.099,584.937,174.183,65.583,60.237,2.856
+Sonora,Magdalena,Fuentes móviles que no circulan por carretera,1.464,18.942,76.084,4.679,3.606,3.416,0.009
+Sonora,Magdalena,Fuentes naturales,,,82.557,289.216,,,
+Sonora,Mazatán,Fuentes de área,0.178,33.489,1.736,25.489,22.591,10.563,19.413
+Sonora,Mazatán,Fuentes móviles carreteros,0.534,72.701,19.072,6.311,1.869,1.716,0.098
+Sonora,Mazatán,Fuentes móviles que no circulan por carretera,1.024,14.161,29.19,2.915,2.417,2.344,0.009
+Sonora,Mazatán,Fuentes naturales,,,87.126,533.279,,,
+Sonora,Moctezuma,Fuentes de área,0.968,118.288,5.034,83.055,24.612,14.025,39.099
+Sonora,Moctezuma,Fuentes móviles carreteros,2.46,282.872,85.722,25.214,10.025,9.208,0.406
+Sonora,Moctezuma,Fuentes móviles que no circulan por carretera,1.032,14.227,29.397,2.931,2.429,2.356,0.009
+Sonora,Moctezuma,Fuentes naturales,,,43.109,277.499,,,
+Sonora,Naco,Fuentes de área,0.078,27.45,2.003,85.311,7.721,3.761,18.289
+Sonora,Naco,Fuentes móviles carreteros,1.162,202.327,42.554,17.985,2.751,2.52,0.259
+Sonora,Naco,Fuentes móviles que no circulan por carretera,1.774,22.443,114.811,6.056,4.516,4.227,0.009
+Sonora,Naco,Fuentes naturales,,,59.007,135.469,,,
+Sonora,Nácori Chico,Fuentes de área,2.727,348.538,10.842,59.71,50.41,32.878,44.917
+Sonora,Nácori Chico,Fuentes móviles carreteros,0.124,25.962,4.519,2.143,0.148,0.135,0.031
+Sonora,Nácori Chico,Fuentes móviles que no circulan por carretera,1.001,13.945,28.519,2.864,2.376,2.304,0.009
+Sonora,Nácori Chico,Fuentes naturales,,,45.262,946.229,,,
+Sonora,Nacozari de García,Fuentes fijas,15.325,1740.208,1845.708,82.528,722.573,691.063,36.551
+Sonora,Nacozari de García,Fuentes de área,14.15,1553.042,49.656,407.002,160.855,133.925,52.855
+Sonora,Nacozari de García,Fuentes móviles carreteros,9.007,1046.649,313.13,93.296,36.138,33.192,1.51
+Sonora,Nacozari de García,Fuentes móviles que no circulan por carretera,1.41,18.483,76.01,4.596,3.531,3.339,0.008
+Sonora,Nacozari de García,Fuentes naturales,,,34.068,359.223,,,
+Sonora,Navojoa,Fuentes fijas,95.618,32.047,97.121,187.732,79.098,39.639,1.406
+Sonora,Navojoa,Fuentes de área,8.49,2056.382,96.829,2635.472,994.518,379.69,4880.912
+Sonora,Navojoa,Fuentes móviles carreteros,53.904,6266.096,1993.104,574.319,198.385,182.194,9.238
+Sonora,Navojoa,Fuentes móviles que no circulan por carretera,5.133,55.094,291.954,15.335,11.382,10.693,0.03
+Sonora,Navojoa,Fuentes naturales,,,276.427,2890.164,,,
+Sonora,Nogales,Fuentes fijas,1.244,25.234,35.782,439.432,9.083,6.52,0.909
+Sonora,Nogales,Fuentes de área,4.391,603.235,88.842,5067.682,84.476,67.621,290.722
+Sonora,Nogales,Fuentes móviles carreteros,106.481,14056.92,3871.3,1269.172,360.62,331.047,20.045
+Sonora,Nogales,Fuentes móviles que no circulan por carretera,2.045,43.594,151.677,10.325,5.557,5.17,0.208
+Sonora,Nogales,Fuentes naturales,,,27.914,266.015,,,
+Sonora,Ónavas,Fuentes de área,0.047,9.538,0.485,25.703,74.023,12.564,8.006
+Sonora,Ónavas,Fuentes móviles carreteros,0.046,10.374,1.665,0.922,0.014,0.013,0.013
+Sonora,Ónavas,Fuentes móviles que no circulan por carretera,1.43,20.767,93.925,6.653,4.027,3.791,0.009
+Sonora,Ónavas,Fuentes naturales,,,96.926,2659.749,,,
+Sonora,Opodepe,Fuentes de área,0.788,216.405,7.804,44.503,82.094,61.509,38.966
+Sonora,Opodepe,Fuentes móviles carreteros,0.516,68.365,18.358,5.868,1.863,1.71,0.092
+Sonora,Opodepe,Fuentes móviles que no circulan por carretera,1.975,26.676,151.082,8.818,5.49,5.111,0.009
+Sonora,Opodepe,Fuentes naturales,,,48.274,165.451,,,
+Sonora,Oquitoa,Fuentes de área,0.016,3.747,0.189,5.622,2.687,0.83,2.455
+Sonora,Oquitoa,Fuentes móviles carreteros,0.062,10.873,2.183,0.902,0.125,0.114,0.014
+Sonora,Oquitoa,Fuentes móviles que no circulan por carretera,0.984,13.791,28.042,2.827,2.346,2.276,0.009
+Sonora,Oquitoa,Fuentes naturales,,,40.542,118.913,,,
+Sonora,Pitiquito,Fuentes fijas,1194.287,363.822,2569.551,83.251,166.676,151.502,48.919
+Sonora,Pitiquito,Fuentes de área,0.099,27.091,2.732,113.932,24.82,7.055,47.268
+Sonora,Pitiquito,Fuentes móviles carreteros,1.006,171.301,36.662,15.079,2.486,2.278,0.22
+Sonora,Pitiquito,Fuentes móviles que no circulan por carretera,1.845,22.202,108.387,6.047,4.383,4.114,0.009
+Sonora,Pitiquito,Fuentes naturales,,,36.612,110.429,,,
+Sonora,Puerto Peñasco,Fuentes de área,0.224,62.941,15.386,883.801,14.616,9.899,87.772
+Sonora,Puerto Peñasco,Fuentes móviles carreteros,21.67,3029.988,781.876,274.656,70.38,64.593,4.216
+Sonora,Puerto Peñasco,Fuentes móviles que no circulan por carretera,3.629,131.552,291.678,35.757,8.894,8.16,0.009
+Sonora,Puerto Peñasco,Fuentes naturales,,,38.698,64.257,,,
+Sonora,Quiriego,Fuentes de área,15.455,1782.162,53.785,165.713,261.113,170.946,133.907
+Sonora,Quiriego,Fuentes móviles carreteros,0.439,53.53,15.55,4.587,1.732,1.59,0.074
+Sonora,Quiriego,Fuentes móviles que no circulan por carretera,1.151,15.325,32.805,3.194,2.638,2.558,0.01
+Sonora,Quiriego,Fuentes naturales,,,125.195,3301.631,,,
+Sonora,Rayón,Fuentes de área,0.286,73.87,3.13,41.525,60.751,18.053,40.381
+Sonora,Rayón,Fuentes móviles carreteros,0.537,73.448,19.18,6.364,1.87,1.717,0.099
+Sonora,Rayón,Fuentes móviles que no circulan por carretera,1.045,14.352,29.783,2.961,2.453,2.379,0.009
+Sonora,Rayón,Fuentes naturales,,,66.343,313.994,,,
+Sonora,Rosario,Fuentes de área,80.349,8803.278,263.139,682.004,985.455,776.086,388.911
+Sonora,Rosario,Fuentes móviles carreteros,1.07,120.656,37.138,10.423,4.426,4.066,0.171
+Sonora,Rosario,Fuentes móviles que no circulan por carretera,1.196,15.741,34.099,3.293,2.717,2.635,0.01
+Sonora,Rosario,Fuentes naturales,,,120.641,2463.05,,,
+Sonora,Sahuaripa,Fuentes fijas,86.756,285.539,1322.459,85.109,30.739,0.143,0
+Sonora,Sahuaripa,Fuentes de área,14.295,1613.914,50.12,183.932,177.477,145.491,79.386
+Sonora,Sahuaripa,Fuentes móviles carreteros,1.048,140.948,37.559,12.215,3.592,3.297,0.19
+Sonora,Sahuaripa,Fuentes móviles que no circulan por carretera,1.057,14.456,30.108,2.986,2.473,2.399,0.009
+Sonora,Sahuaripa,Fuentes naturales,,,55.712,2900.903,,,
+Sonora,San Felipe de Jesús,Fuentes de área,0.078,24.368,0.924,14.822,17.13,5.288,7.041
+Sonora,San Felipe de Jesús,Fuentes móviles carreteros,0.052,11.774,1.887,1.053,0.017,0.015,0.015
+Sonora,San Felipe de Jesús,Fuentes móviles que no circulan por carretera,0.999,13.93,28.472,2.86,2.373,2.302,0.009
+Sonora,San Felipe de Jesús,Fuentes naturales,,,90.023,596.062,,,
+Sonora,San Javier,Fuentes de área,7.074,768.236,22.913,66.08,87.046,67.189,14.23
+Sonora,San Javier,Fuentes móviles carreteros,0.184,37.693,6.79,3.123,0.277,0.252,0.045
+Sonora,San Javier,Fuentes móviles que no circulan por carretera,0.979,13.747,27.904,2.816,2.338,2.268,0.008
+Sonora,San Javier,Fuentes naturales,,,93.841,2470.7,,,
+Sonora,San Luis Río Colorado,Fuentes fijas,0.351,1.347,3.058,191.031,2.542,1.882,0.049
+Sonora,San Luis Río Colorado,Fuentes de área,4.967,1134.624,74.763,2696.652,627.554,352.222,505.723
+Sonora,San Luis Río Colorado,Fuentes móviles carreteros,64.013,8713.982,2386.281,792.671,202.369,185.733,12.16
+Sonora,San Luis Río Colorado,Fuentes móviles que no circulan por carretera,4.726,52.277,323.355,15.438,11.2,10.413,0.022
+Sonora,San Luis Río Colorado,Fuentes naturales,,,84.137,349.083,,,
+Sonora,San Miguel de Horcasitas,Fuentes de área,0.512,211.976,7.616,138.27,88.011,32.902,68.381
+Sonora,San Miguel de Horcasitas,Fuentes móviles carreteros,1.121,130.274,44.21,11.51,3.819,3.507,0.18
+Sonora,San Miguel de Horcasitas,Fuentes móviles que no circulan por carretera,1.506,19.12,67.58,4.547,3.56,3.395,0.011
+Sonora,San Miguel de Horcasitas,Fuentes naturales,,,98.218,390.156,,,
+Sonora,San Pedro de la Cueva,Fuentes de área,0.094,21.098,1.213,25.615,12.646,4.312,24.52
+Sonora,San Pedro de la Cueva,Fuentes móviles carreteros,0.337,46.924,12.084,4.031,1.162,1.066,0.063
+Sonora,San Pedro de la Cueva,Fuentes móviles que no circulan por carretera,1,13.94,28.503,2.862,2.375,2.303,0.009
+Sonora,San Pedro de la Cueva,Fuentes naturales,,,47.305,2447.313,,,
+Sonora,Santa Ana,Fuentes fijas,0,0,0,0.001,2.455,1.486,0
+Sonora,Santa Ana,Fuentes de área,0.277,70.336,5.964,250.063,122.264,26.221,58.958
+Sonora,Santa Ana,Fuentes móviles carreteros,9.764,1140.262,339.035,101.198,39.075,35.889,1.642
+Sonora,Santa Ana,Fuentes móviles que no circulan por carretera,1.546,19.839,84.957,5.012,3.83,3.617,0.009
+Sonora,Santa Ana,Fuentes naturales,,,70.825,225.597,,,
+Sonora,Santa Cruz,Fuentes fijas,1.159,1.02,4.08,0,57.392,0.237,0.163
+Sonora,Santa Cruz,Fuentes de área,0.104,39.4,1.506,24.028,9.562,4.793,18.944
+Sonora,Santa Cruz,Fuentes móviles carreteros,0.516,68.69,18.423,5.956,1.864,1.711,0.093
+Sonora,Santa Cruz,Fuentes móviles que no circulan por carretera,1.961,24.479,134.927,6.81,5.024,4.684,0.009
+Sonora,Santa Cruz,Fuentes naturales,,,38.272,196.174,,,
+Sonora,Sáric,Fuentes de área,2.128,247.285,7.606,37.195,29.113,22.018,16.197
+Sonora,Sáric,Fuentes móviles carreteros,0.465,59.934,16.568,5.181,1.741,1.599,0.082
+Sonora,Sáric,Fuentes móviles que no circulan por carretera,0.991,13.85,28.225,2.841,2.358,2.287,0.009
+Sonora,Sáric,Fuentes naturales,,,62.331,190.985,,,
+Sonora,Soyopa,Fuentes de área,66.805,7248.796,215.605,519.265,736.011,620.913,93.284
+Sonora,Soyopa,Fuentes móviles carreteros,0.19,31.948,6.831,2.582,0.485,0.445,0.039
+Sonora,Soyopa,Fuentes móviles que no circulan por carretera,0.991,13.852,28.232,2.841,2.358,2.287,0.009
+Sonora,Soyopa,Fuentes naturales,,,116.468,3062.652,,,
+Sonora,Suaqui Grande,Fuentes de área,0.026,7.189,0.491,14.486,2.537,1.101,13.286
+Sonora,Suaqui Grande,Fuentes móviles carreteros,0.223,39.974,8.111,3.332,0.497,0.455,0.049
+Sonora,Suaqui Grande,Fuentes móviles que no circulan por carretera,0.987,13.813,28.108,2.832,2.35,2.28,0.009
+Sonora,Suaqui Grande,Fuentes naturales,,,92.75,2033.685,,,
+Sonora,Tepache,Fuentes de área,0.031,9.436,0.517,20.163,7.667,1.997,15.069
+Sonora,Tepache,Fuentes móviles carreteros,0.179,36.467,6.596,3.008,0.275,0.251,0.043
+Sonora,Tepache,Fuentes móviles que no circulan por carretera,0.984,13.793,28.046,2.827,2.347,2.276,0.009
+Sonora,Tepache,Fuentes naturales,,,47.558,1151.577,,,
+Sonora,Trincheras,Fuentes de área,0.22,46.13,1.983,24.493,41.657,12.836,28.565
+Sonora,Trincheras,Fuentes móviles carreteros,0.254,47.63,9.331,4.048,0.509,0.466,0.059
+Sonora,Trincheras,Fuentes móviles que no circulan por carretera,2.062,25.477,141.002,7.107,5.239,4.886,0.009
+Sonora,Trincheras,Fuentes naturales,,,78.1,280.279,,,
+Sonora,Tubutama,Fuentes de área,0.525,76.38,2.7,15.901,19.018,10.306,22.068
+Sonora,Tubutama,Fuentes móviles carreteros,0.204,38.907,7.463,3.234,0.387,0.354,0.047
+Sonora,Tubutama,Fuentes móviles que no circulan por carretera,1.02,14.124,29.075,2.906,2.41,2.337,0.009
+Sonora,Tubutama,Fuentes naturales,,,53.154,175.179,,,
+Sonora,Ures,Fuentes de área,72.436,7965.083,240.053,652.189,853.561,707.405,300.434
+Sonora,Ures,Fuentes móviles carreteros,3.105,348.754,107.711,30.974,12.952,11.897,0.5
+Sonora,Ures,Fuentes móviles que no circulan por carretera,1.132,15.15,32.263,3.152,2.604,2.526,0.01
+Sonora,Ures,Fuentes naturales,,,54.483,319.733,,,
+Sonora,Villa Hidalgo,Fuentes de área,0.407,50.813,1.895,23.165,9.851,5.467,24.186
+Sonora,Villa Hidalgo,Fuentes móviles carreteros,0.449,55.929,15.933,4.802,1.735,1.593,0.077
+Sonora,Villa Hidalgo,Fuentes móviles que no circulan por carretera,0.998,13.916,28.43,2.857,2.37,2.299,0.009
+Sonora,Villa Hidalgo,Fuentes naturales,,,32.876,158.889,,,
+Sonora,Villa Pesqueira,Fuentes de área,0.188,33.512,1.587,20.344,17.14,6.508,29.629
+Sonora,Villa Pesqueira,Fuentes móviles carreteros,0.478,63.523,16.819,5.505,1.747,1.604,0.09
+Sonora,Villa Pesqueira,Fuentes móviles que no circulan por carretera,1.02,14.122,29.071,2.906,2.409,2.337,0.009
+Sonora,Villa Pesqueira,Fuentes naturales,,,42.883,1287.433,,,
+Sonora,Yécora,Fuentes de área,23.142,2650.206,79.682,277.113,284.444,229.526,87.438
+Sonora,Yécora,Fuentes móviles carreteros,0.641,93.309,23.184,7.659,2.02,1.853,0.123
+Sonora,Yécora,Fuentes móviles que no circulan por carretera,1.01,14.026,28.773,2.883,2.391,2.319,0.009
+Sonora,Yécora,Fuentes naturales,,,65.685,1583.308,,,
+Sonora,General Plutarco Elías Calles,Fuentes de área,0.177,28.193,3.86,207.506,37.905,11.088,51.436
+Sonora,General Plutarco Elías Calles,Fuentes móviles carreteros,4.065,462.877,148.767,41.689,15.597,14.325,0.663
+Sonora,General Plutarco Elías Calles,Fuentes móviles que no circulan por carretera,1.143,15.256,32.593,3.177,2.625,2.546,0.01
+Sonora,General Plutarco Elías Calles,Fuentes naturales,,,43.161,114.471,,,
+Sonora,Benito Juárez,Fuentes de área,3.069,503.18,23.715,295.352,437.645,133.867,398.564
+Sonora,Benito Juárez,Fuentes móviles carreteros,3.757,426.419,133.907,37.925,14.915,13.7,0.618
+Sonora,Benito Juárez,Fuentes móviles que no circulan por carretera,2.378,26.619,67.894,5.897,4.783,4.639,0.021
+Sonora,Benito Juárez,Fuentes naturales,,,863.722,4033.858,,,
+Sonora,San Ignacio Río Muerto,Fuentes de área,3.327,611.371,26.944,203.817,461.871,153.896,349.343
+Sonora,San Ignacio Río Muerto,Fuentes móviles carreteros,3.139,291.608,107.405,25.618,14.787,13.589,0.447
+Sonora,San Ignacio Río Muerto,Fuentes móviles que no circulan por carretera,2.489,27.643,71.075,6.142,4.977,4.828,0.022
+Sonora,San Ignacio Río Muerto,Fuentes naturales,,,459.687,2206.34,,,
